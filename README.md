@@ -1,2 +1,2 @@
 #tag-pipeline
-Testing tag pipeline.
+Testing tag pipeline. foo!
